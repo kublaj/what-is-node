@@ -60,7 +60,7 @@ and you will see that first output is 2000 which is not blocked by previous oper
 When you execute something **synchronously**, you wait for it to finish before moving on to another task.
 When you execute something **asynchronously**, you can move on to another task before it finishes.
 
-## What is callback - heart of Node.js
+## What is a callback - the core of Node.js
 
 To fully understand how Node.js works you need to know what is callback
 
