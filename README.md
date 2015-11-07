@@ -65,7 +65,8 @@ If it *were* a blocking model, there would be a 2-second pause, followed by `Wor
 When code runs **synchronously**, things happen strictly in order - you wait for it to finish before moving on to another task.
 When you execute something **asynchronously**, you can move on to another task before it finishes.
 
-## What is a callback - heart of Node.js
+
+## What is a callback - the core of Node.js
 
 To fully understand how Node.js works you need to know what a callback is.
 
@@ -247,4 +248,5 @@ Follow our next tutorial [here](https://github.com/node-girls/learn-node)
 * [Learn Node.js Completely and with Confidence](http://javascriptissexy.com/learn-node-js-completely-and-with-confidence/)
 * [Excellent article by  Felix Geisendörfer](http://debuggable.com/posts/understanding-node-js:4bd98440-45e4-4a9a-8ef7-0f7ecbdd56cb)
 * [Great explanation of the event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+
 * [All other resources listed nicely here](http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js)
